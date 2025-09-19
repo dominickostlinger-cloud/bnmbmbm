@@ -8,7 +8,7 @@ export const products: Product[] = [
     price: 120.00,
     description: 'Crafted from premium heavyweight cotton, our signature hoodie offers ultimate comfort and a timeless oversized fit. Featuring a subtle embroidered logo.',
     category: 'Hoodies',
-    images: ['https://media.discordapp.net/attachments/1301990728808792096/1418718393577635860/open1621447677-1234478995-6974000001985c544de10a8115c2_1200_1200.jpg?ex=68cf23f7&is=68cdd277&hm=1b319d46d4d48d6b18af7d174c8784298e7fba1f324bd8d6cd7d97d3dac09f37&=&format=webp&width=942&height=942', 'https://picsum.photos/seed/h001-2/800/1000', 'https://picsum.photos/seed/h001-3/800/1000'],
+    images: ['https://media.discordapp.net/attachments/1301990728808792096/1418718393577635860/open1621447677-1234478995-6974000001985c544de10a8115c2_1200_1200.jpg?ex=68cf23f7&is=68cdd277&hm=1b319d46d4d48d6b18af7d174c8784298e7fba1f324bd8d6cd7d97d3dac09f37&=&format=webp&width=942&height=942/800/1000', 'https://picsum.photos/seed/h001-2/800/1000', 'https://picsum.photos/seed/h001-3/800/1000'],
     sizes: ['S', 'M', 'L', 'XL'],
     featured: true,
   },
