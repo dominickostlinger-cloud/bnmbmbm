@@ -24,7 +24,7 @@ export const products: Product[] = [
     description:
       'This black hoodie features a bold white spiderweb graphic with playful “spider” text across the chest. Star accents run down both sleeves, giving it a stylish, edgy streetwear vibe. Crafted for comfort, it’s perfect for casual layering or standout looks.',
     category: 'Hoodies',
-    images: [{ src: 'C:\Users\Dominic\Desktop\repzzheaven\images\open1621447677-1234478995-67e2000001985c54ec040a23b491_1200_1200.jpg', width: 800, height: 1000 }],
+    images: [{ src: 'images/open1621447677-1234478995-67e2000001985c54ec040a23b491_1200_1200.jpg', width: 800, height: 1000 }],
     sizes: ['S', 'M', 'L', 'XL'],
     featured: true,
   },
